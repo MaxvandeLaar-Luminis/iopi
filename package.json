@@ -1,0 +1,22 @@
+{
+  "name": "iopi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iopi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxvandeLaar-Luminis/iopi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxvandeLaar-Luminis/iopi/issues"
+  },
+  "homepage": "https://github.com/MaxvandeLaar-Luminis/iopi#readme",
+  "dependencies": {
+    "rpio": "^1.0.13"
+  }
+}
